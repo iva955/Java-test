@@ -19,7 +19,7 @@ public class Main {
         int i = 0;
         int StringToInt = Integer.parseInt(numberOfPencils);
 
-        while (i <= StringToInt) {
+        while (i < StringToInt) {
 
             System.out.print(barSymbols);
             i++;
